@@ -1,0 +1,43 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.gray-color {
+    color: gray;
+}
+
+/* section 1 */
+.section-1 {
+    padding: 30px;
+}
+
+.flex-section {
+    display: flex;
+}
+
+.section-1-left {
+    width: 40%;
+}
+
+.section-1-right {
+    width: 60%;
+}
+
+div img {
+    width: 50%;
+}
+
+#img-body-bg {
+    background-image: url(images/shapes/Group-8450.png);
+    width: 100%;
+}
+
+/* Section 2 */
