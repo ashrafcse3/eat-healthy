@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -40,4 +41,35 @@ div img {
     width: 100%;
 }
 
+.gradient-link {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    display: block;
+    padding: 20px 40px;
+    width: 25%;
+    border-radius: 30px;
+    color: white;
+}
+
 /* Section 2 */
+
+.section-2 {
+    padding: 0 250px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.section-2-header {
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+.section-2-para {
+    font-family: 'Manrope', sans-serif;
+    margin-bottom: 80px;
+}
+
+.section-2-child {
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
